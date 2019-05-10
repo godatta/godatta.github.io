@@ -1,0 +1,28 @@
+{{<div class="menu-head">Digbalay Bose</div>}}
+	Home		[index.html]
+	Resume  [Digbalay_Bose_CV.pdf]
+{{<div class="menu-head">Education</div>}}
+	Academics	[acads.html]
+	Courses		[courses.html]
+
+{{<div class="menu-head">Research</div>}}
+	Research Projects	[research_projects.html]
+	#Academic Projects [academic_projects.html]
+	Publications	[pubs.html]
+
+{{<div class="menu-head">Work Experience</div>}}
+	IBM Research [IBM_Research.html]
+
+{{<div class="menu-head">Misc</div>}}
+	Achievements [achievements.html]
+	Extracurricular [extracurricular.html]
+
+#	Achievements [awards.html]
+#Research\n
+#	Publications	[pubs.html]
+#	Internships	[internships.html]
+#	Projects	[projects.html]
+#Other\n
+#	Extra-curriculars	[extracurrics.html]
+#Resume [Resume_Ashudeep.pdf]
+#Contact		[contact.html]

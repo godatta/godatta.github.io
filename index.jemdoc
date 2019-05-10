@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{index.html}
+= Digbalay Bose
+
+~~~
+{}{img_left}{images/digbalay_bose.jpg}{Digbalay Bose}{320px}
+\n\n[contact.html Contact]: [digbose92@gmail.com]\n\n
+{{<ul class="icons">
+<li><a href="https://www.facebook.com/digbose92" class="fa fa-facebook solo"><span>Facebook</span></a></li>
+<li><a href="https://www.linkedin.com/in/digbalay-bose-11146251/" class="fa fa-linkedin solo"><span>LinkedIn</span></a></li>
+</ul>}}
+~~~
+
+== About Me
+I worked as a *Software Engineer* at *IBM Research Lab, Bangalore* from July 2016 to June 2018. My research interests lie in the areas of *Signal Processing*,*Machine Learning* and *Time Series Analysis*.
+I completed my Masters in *Electrical Engineering* from *Indian Institute of Technology, Bombay* in 2016,
+specialising in Control and Computing. Previously, I obtained my Bachelors degree in *Electronics and
+Telecommunication Engineering* from *Jadavpur University* in 2014

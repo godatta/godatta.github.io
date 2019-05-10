@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{projects.html}
+= Research Projects
+
+
+== Graduate Projects
+==== MTECH PROJECT
+- *Application of sparsity and metric learning based methods in classification problems *
+\n *Advisor* : Prof. [https://www.ee.iitb.ac.in/~sc/ Subhasis Chaudhuri], IIT Bombay
+\n \[[projects/143070026_thesis.pdf Thesis]\]
+-- Analyzed the performance of existing sparsity-based algorithms in various classification problems.
+-- A novel hierarchical scheme of image classification was proposed which involved organization of the image categories using a self tuning variant of spectral clustering followed by application of large margin nearest neighbor algorithm on each non-leaf node of the tree. The same tree structure was utilized in a joint classifier and dictionary learning framework where the pre-processing of the data was done using kernel based methods.
+-- Effectiveness of the algorithms were tested on the standard *Imagenet* dataset and compared with the state of the art algorithms.
+
+
+==== MTECH SEMINAR
+- *Analysis of Google Page Rank Algorithm *
+\n *Advisor* : Prof. [https://www.ee.iitb.ac.in/~debasattam/ Debasattam Pal], IIT Bombay
+\n \[[projects/report_seminar_digbalay.pdf Report]\]
+-- The *pagerank algorithm* as a graph problem (*Hyperlink Model*)was studied in detail,with specific emphasis on the principle of assigning  scores for determining the importance of web pages.
+-- A brief insight into the *pagerank algorithm* was obtained followed by analysis using *Perron Frobenius* theorem of irreducible matrices and *Banach fixed point theorem* for contraction mapping.
+
+
+== Undergraduate projects
+
+==== BACHELOR'S THESIS
+- *Design of custom processor for block matching algorithm*
+\n *Advisor* : Prof. [http://www.jaduniv.edu.in/profile.php?uid=348 Mrinal Kanti Naskar], Jadavpur University
+-- Analyzed existing algorithms for block matching in motion estimation like Three step, New Three step etc and
+proposed a design of hardware accelerator for implementation of the block matching algorithms
+
+==== UNDERGRADUATE RESEARCH PROJECT
+- *Modification of the fuzzy c means clustering algorithm to include a vectorized membership
+function*
+\n *Advisor* : Prof. [http://www.jaduniv.edu.in/profile.php?uid=587 Amit Konar], Jadavpur University
+-- Proposed a novel variant of the classical Fuzzy C Means algorithm in which original scalar membership of the
+data elements with respect to different clusters was replaced by a vectorized membership scheme
+
+==== UNDERGRADUATE RESEARCH PROJECT
+- *Evolutionary algorithms for numerical optimization*
+\n *Advisor* : Dr. [https://www.isical.ac.in/~swagatam.das/ Swagatam Das], Indian Statistical Institute
+-- Proposed optimization-based solutions to design problems of analog filter and circular antenna array. Designed novel evolutionary algorithms for numerical optimization.

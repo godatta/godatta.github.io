@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{IBM_Research.html}
+
+= IBM Research
+
+- Worked as *software engineer* from *July 2016* to *June 2018*
+
+- *Key Contributions*:
+  -- Worked on developing statistical models for time series signals like soil moisture readings from fields. Used interpolation-based techniques for estimating soil moisture signals at locations of interest for customers.
+  -- Developed methods for explaining results of machine learning models used in image classification and visual search, to customers, in the areas of fashion products like dresses, eyeglasses

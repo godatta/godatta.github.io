@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{pubs.html}
+= Publications
+
+
+=== Journal Publications
+- *Digbalay Bose*,Subhodip Biswas, Athanasios V.Vasilakos, Sougata Laha.
+\n[pubs\elsevier_journal_optimal_filter.pdf *Optimal filter design using an improved artificial bee colony
+algorithm*], Information Sciences vol 281, pp 443-461 , 2014
+
+=== Conference Publications
+- *Digbalay Bose*,Subhasis Chaudhuri.
+\n[pubs\icvgip_2016_paper.pdf *Hierarchical Spectral Clustering based Large Margin Classification of Visually Correlated Categories*].
+\nIn Proceedings of 10th Indian Conference on Vision, Graphics and Image Processing(ICVGIP) 2016.
+
+- Srinjoy Ganguly,*Digbalay Bose*,Amit Konar
+\n[pubs\Clustering_using_vectorized_membership.pdf *Clustering using vector membership: An extension of the fuzzy C means algorithm*].
+\n International Conference on Advanced Computing(ICoAC) 2013, pp 27-32, 2013
+

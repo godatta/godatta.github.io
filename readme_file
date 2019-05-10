@@ -1,0 +1,5 @@
+1) python jemdoc.py **.jemdoc
+
+
+
+2) python jemdoc.py index.jemdoc

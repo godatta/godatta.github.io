@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{courses.html}
+= Courses
+
+
+=== Graduate Courses (IIT Bombay)
+- Computer Vision (*EE 702*)
+- Digital Image Processing (*CS 663*)
+- Foundations of Machine Learning (*CS 725*)
+- Image Processing (*EE 610*)
+- High Performance Scientific Computing (*ME 766*)
+- Advanced Computing for Electrical Engineers (*EE 717*)
+- Applied Linear Algebra (*EE 635*)
+- Wavelets(*EE 678*)
+- Matrix Computations (*EE 636*)
+- Optimal Control Systems (*EE 622*)
+- Control and Computation Laboratory (*EE 615*)
+- Multivariable Control Systems (*EE 640*)
+- Nonlinear Dynamical Systems (*EE 613*)
+- Introduction to Number Theory and Cryptography (*EE 720*)
+- Foundation of VLSI CAD (*EE 677*)
+- Behavioral Theory of Systems (*EE 714*)
+
+=== Undergraduate Courses(Jadavpur University)
+====  Electronics and Telecommunication Courses(Relevant)
+- Digital Signal Processing
+- Digital Control Systems
+- Control Engineering
+- Digital Communication
+- VLSI Design
+====  Computer Science Courses(Relevant)
+- C Language and Data Structures
+- Computer Communication Networks
+- Computer Organization and Architecture
+- Operating Systems
+- Compiler Design
