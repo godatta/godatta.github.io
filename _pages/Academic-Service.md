@@ -14,7 +14,7 @@ author_profile: true
 
 ## Reviewers for Conferences
 
-* 2024: ICASSP
+* 2024: ICASSP.
 
 * 2023: ICLR, IJCNN, ICASSP, WACV, NeurIPS SyntheticData4ML workshop.
 
@@ -25,6 +25,4 @@ author_profile: true
 ## Reviewers for journals
 
 * IEEE Transactions on Circuits and Systems-I & II, IEEE Transactions on Computer-Aided
-Design of Integrated Circuits and Systems, IEEE Internet of Things, IEEE Systems, IEEE Transactions on Applied
-Superconductivity, Science Advances, Frontiers in Neuroscience, Frontiers in Neurorobotics, Patterns - Cell Press,
-Neurocomputing, Neural Networks, MDPI.
+Design of Integrated Circuits and Systems, IEEE Internet of Things, IEEE Systems, IEEE Transactions on Applied Superconductivity, Science Advances, Frontiers in Neuroscience, Frontiers in Neurorobotics, Patterns - Cell Press, Neurocomputing, Neural Networks, MDPI.
