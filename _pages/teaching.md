@@ -15,6 +15,7 @@ permalink: "/teaching/"
 
 # Supervision
 
+- ***2024***, *Chengwei Zhou*, PhD student
 - ***2023***, *Zeyu Liu*, Research paper **Low-Complexity yet Powerful spiking Legendre Memory Units**, under review.
 - ***2022***, *Yue Hu*, Research paper [FireFly: A Synthetic Dataset for Ember Detection in Wildfire](https://openaccess.thecvf.com/content/ICCV2023W/AIHADR/html/Hu_FireFly_A_Synthetic_Dataset_for_Ember_Detection_in_Wildfire_ICCVW_2023_paper.html), ICCV Workshop 2023.
 - ***2023***, *Yue Hu*, Research paper [Let's Roll: Synthetic Dataset Analysis for Pedestrian Detection Across Different Shutter Types](https://arxiv.org/pdf/2309.08136.pdf), under review in ICASSP 2024.

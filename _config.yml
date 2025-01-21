@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Gourav Datta"
 title_separator          : "-"
 name                     : &name "Gourav Datta"
-description              : &description "Applied Scientist at Amazon AGI"
+description              : &description "Assistant Professor at Case Western Reserve University"
 url                      : https://godatta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :  "academicpages/academicpages.github.io"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Gourav Datta"
   avatar           : "profile.jpg"
-  bio              : "Applied Scientist at Amazon AGI"
-  location         : "Sunnyvale, California"
+  bio              : "Assistant Professor at Case Western Reserve University"
+  location         : "Cleveland, Ohio"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=hxSN-fcAAAAJ&hl=en"
-  email            : "goudatta@amazon.com"
+  email            : "gourav.datta@case.edu"
   uri              :
   bitbucket        :
   codepen          :

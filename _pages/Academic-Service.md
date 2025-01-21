@@ -10,7 +10,9 @@ author_profile: true
 
 ## program committee members for international conferences
 
-* 2024: ISQED, VLSID.
+* 2024: ISQED, VLSID, DAC.
+
+* 2025: ISQED, TinyML Symposium, VLSID, DATE, DAC, ISLPED.
 
 ## Reviewers for Conferences
 
