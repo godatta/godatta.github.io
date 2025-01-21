@@ -8,6 +8,8 @@ author_profile: true
 
 ---
 
+You can find the list of all publications on my <u><a href="https://scholar.google.com/citations?user=hxSN-fcAAAAJ&hl=en">Google Scholar</a></u> profile.
+
 {% include base_path %}
 
 {% if author.googlescholar %}

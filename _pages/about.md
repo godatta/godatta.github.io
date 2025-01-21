@@ -34,6 +34,6 @@ Research Areas
 Prospective Students
 --------------------
 
-I will be looking for Ph.D. students starting Fall 2025. Please consider applying to <a href="https://engineering.case.edu/electrical-computer-and-systems-engineering/academics/computer-engineering/doctor-philosophy" style="color:#0645AD;">CWRU Computer Engineering</a>!
+I will be looking for M.S./Ph.D. students starting Fall 2025. Please consider applying to <a href="https://engineering.case.edu/electrical-computer-and-systems-engineering/academics/computer-engineering/doctor-philosophy" style="color:#0645AD;">CWRU Computer Engineering</a>!
 
 
