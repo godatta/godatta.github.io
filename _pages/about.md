@@ -20,3 +20,20 @@ During my PhD tenure, I was fortunate to be a recipient of the USC Viterbi Schoo
 Prior to joining USC, I attended [IIT Kharagpur](https://www.iitkgp.ac.in/){:target="_blank"} where I obtained my B.Tech. degree in [Instrumentation Engineering](https://erp.iitkgp.ac.in/ERPWebServices/curricula/CurriculaSubjectsList.jsp?stuType=UG&splCode=IE){:target="_blank"} with a minor in [Electronics and Communication Engineering](http://www.ecdept.iitkgp.ac.in/){:target="_blank"} in 2018. I was adjudged the academically best outgoing student in my programme at IIT Kharagpur.
 
 In my spare time, I like learning Mathematical Analysis, Modern Finance, Economics and Philosophy. I also like playing and watching soccer, and driving along the Pacific highway.
+
+Research Areas
+--------------
+
+* In-Sensor Computing
+* In-Memory Computing
+* Neuromorphic Computing, 
+* Embedded Machine Learning 
+* Machine Learning for Smart Healthcare 
+* Efficient Multi-Modal Foundation Models
+
+Prospective Students
+--------------------
+
+I will be looking for Ph.D. students starting Fall 2025. Please consider applying to <a href="https://engineering.case.edu/electrical-computer-and-systems-engineering/academics/computer-engineering/doctor-philosophy" style="color:#0645AD;">CWRU Computer Engineering</a>!
+
+
