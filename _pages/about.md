@@ -26,7 +26,7 @@ Research Areas
 
 * In-Sensor Computing
 * In-Memory Computing
-* Neuromorphic Computing, 
+* Neuromorphic Computing 
 * Embedded Machine Learning 
 * Machine Learning for Smart Healthcare 
 * Efficient Multi-Modal Foundation Models
