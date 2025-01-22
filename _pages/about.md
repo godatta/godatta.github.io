@@ -34,6 +34,6 @@ Research Areas
 Prospective Students
 --------------------
 
-I will be looking for M.S./Ph.D. students starting Fall 2025. Please consider applying to <a href="https://engineering.case.edu/electrical-computer-and-systems-engineering/academics/computer-engineering/doctor-philosophy" style="color:#0645AD;">CWRU Computer Engineering</a>!
+I will be looking for M.S./Ph.D. students and interns starting Summer 2025/Fall 2025/Spring 2026. Please send me an email at *gourav.datta@case.edu* and consider applying to <a href="https://engineering.case.edu/electrical-computer-and-systems-engineering/academics/computer-engineering/doctor-philosophy" style="color:#0645AD;">CWRU Computer Engineering</a>! You can find more information about joining my research group in my [student recruitment guide [PDF]](/files/student-recruitment.pdf){:target="_blank"}.
 
 
